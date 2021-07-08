@@ -2,3 +2,4 @@
  Aprendendo JavaScript Avançado
 
 - Template String
+- Operador Ternario
