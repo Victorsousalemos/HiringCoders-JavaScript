@@ -2,4 +2,8 @@
  Aprendendo JavaScript Avançado
 
 - Template String
-- Operador Ternario
+- Operador Ternário
+- Arrow Functions
+- Arrays, spread e métodos
+- Objetos Destructuring
+- Projeto Final
